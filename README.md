@@ -77,3 +77,6 @@ plt.show()
 ![download](https://github.com/Janarthanan2/NN-Project-Based-Experiment/assets/119393515/7feb8e6d-9472-40c9-a757-10e3de8a1005)
 
 
+## RESULT:
+Thus, a Multilayer Perceptron (MLP) to classify handwritten digits in python is successfully executed
+
